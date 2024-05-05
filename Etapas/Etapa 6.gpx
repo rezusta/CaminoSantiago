@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2" version="1.1" creator="Wikiloc - https://www.wikiloc.com">
+<metadata>
+    <name>camino-de-santiago-frances-roncesvalles-santiago</name>
+    <author>
+        <name>gpx.studio</name>
+        <link href="https://gpx.studio"></link>
+    </author>
+</metadata>
+<trk>
+    <name>Camino de Santiago Francés. Roncesvalles-Santiago</name>
+    <type>Cycling</type>
+    <trkseg>
+    <trkpt lat="42.59888" lon="-5.56732">
+        <ele>839.1</ele>
+    </trkpt>
+    <trkpt lat="42.59591" lon="-5.58014">
+        <ele>830.0</ele>
+    </trkpt>
+    <trkpt lat="42.60082" lon="-5.58399">
+        <ele>833.0</ele>
+    </trkpt>
+    <trkpt lat="42.59572" lon="-5.61182">
+        <ele>848.3</ele>
+    </trkpt>
+    <trkpt lat="42.57749" lon="-5.64603">
+        <ele>895.6</ele>
+    </trkpt>
+    <trkpt lat="42.5716" lon="-5.63989">
+        <ele>884.6</ele>
+    </trkpt>
+    <trkpt lat="42.57759" lon="-5.64656">
+        <ele>898.9</ele>
+    </trkpt>
+    <trkpt lat="42.57287" lon="-5.65829">
+        <ele>889.7</ele>
+    </trkpt>
+    <trkpt lat="42.57019" lon="-5.65852">
+        <ele>891.6</ele>
+    </trkpt>
+    <trkpt lat="42.5722" lon="-5.66168">
+        <ele>908.0</ele>
+    </trkpt>
+    <trkpt lat="42.56978" lon="-5.68094">
+        <ele>895.5</ele>
+    </trkpt>
+    <trkpt lat="42.55039" lon="-5.7204">
+        <ele>923.2</ele>
+    </trkpt>
+    <trkpt lat="42.51649" lon="-5.76837">
+        <ele>894.9</ele>
+    </trkpt>
+    <trkpt lat="42.46455" lon="-5.86617">
+        <ele>836.8</ele>
+    </trkpt>
+    <trkpt lat="42.46303" lon="-5.88808">
+        <ele>830.7</ele>
+    </trkpt>
+    <trkpt lat="42.46717" lon="-5.89441">
+        <ele>831.6</ele>
+    </trkpt>
+    <trkpt lat="42.47081" lon="-5.91512">
+        <ele>840.3</ele>
+    </trkpt>
+    <trkpt lat="42.45834" lon="-5.93087">
+        <ele>856.3</ele>
+    </trkpt>
+    <trkpt lat="42.46586" lon="-5.9446">
+        <ele>887.0</ele>
+    </trkpt>
+    <trkpt lat="42.46706" lon="-5.97035">
+        <ele>914.7</ele>
+    </trkpt>
+    <trkpt lat="42.46086" lon="-5.98156">
+        <ele>922.0</ele>
+    </trkpt>
+    <trkpt lat="42.45885" lon="-5.99207">
+        <ele>924.9</ele>
+    </trkpt>
+    <trkpt lat="42.45395" lon="-5.9991">
+        <ele>923.0</ele>
+    </trkpt>
+    <trkpt lat="42.45454" lon="-6.0508">
+        <ele>858.9</ele>
+    </trkpt>
+    <trkpt lat="42.45271" lon="-6.05019">
+        <ele>856.5</ele>
+    </trkpt>
+    <trkpt lat="42.45748" lon="-6.05638">
+        <ele>880.0</ele>
+    </trkpt>
+    <trkpt lat="42.45623" lon="-6.05469">
+        <ele>887.4</ele>
+    </trkpt>
+    <trkpt lat="42.45915" lon="-6.06335">
+        <ele>868.1</ele>
+    </trkpt>
+    <trkpt lat="42.46032" lon="-6.10602">
+        <ele>882.1</ele>
+    </trkpt>
+    <trkpt lat="42.46509" lon="-6.13354">
+        <ele>907.2</ele>
+    </trkpt>
+    <trkpt lat="42.45784" lon="-6.1371">
+        <ele>920.5</ele>
+    </trkpt>
+    <trkpt lat="42.45517" lon="-6.1471">
+        <ele>966.5</ele>
+    </trkpt>
+    <trkpt lat="42.46413" lon="-6.22453">
+        <ele>1036.4</ele>
+    </trkpt>
+    <trkpt lat="42.47788" lon="-6.26117">
+        <ele>1108.4</ele>
+    </trkpt>
+    <trkpt lat="42.48589" lon="-6.30955">
+        <ele>1255.6</ele>
+    </trkpt>
+    <trkpt lat="42.49162" lon="-6.32695">
+        <ele>1350.4</ele>
+    </trkpt>
+    <trkpt lat="42.48973" lon="-6.33033">
+        <ele>1382.0</ele>
+    </trkpt>
+    <trkpt lat="42.49269" lon="-6.3461">
+        <ele>1441.1</ele>
+    </trkpt>
+    <trkpt lat="42.48983" lon="-6.35158">
+        <ele>1480.5</ele>
+    </trkpt>
+    <trkpt lat="42.49163" lon="-6.35469">
+        <ele>1482.0</ele>
+    </trkpt>
+    <trkpt lat="42.48837" lon="-6.36193">
+        <ele>1498.8</ele>
+    </trkpt>
+    <trkpt lat="42.49002" lon="-6.37305">
+        <ele>1488.0</ele>
+    </trkpt>
+    <trkpt lat="42.48765" lon="-6.38115">
+        <ele>1469.8</ele>
+    </trkpt>
+    <trkpt lat="42.49216" lon="-6.4057">
+        <ele>1479.6</ele>
+    </trkpt>
+    <trkpt lat="42.48958" lon="-6.40684">
+        <ele>1499.0</ele>
+    </trkpt>
+    <trkpt lat="42.48826" lon="-6.4207">
+        <ele>1513.9</ele>
+    </trkpt>
+    <trkpt lat="42.49187" lon="-6.43166">
+        <ele>1426.5</ele>
+    </trkpt>
+    <trkpt lat="42.49145" lon="-6.44004">
+        <ele>1409.8</ele>
+    </trkpt>
+    <trkpt lat="42.4953" lon="-6.44276">
+        <ele>1336.6</ele>
+    </trkpt>
+    <trkpt lat="42.49686" lon="-6.45533">
+        <ele>1195.4</ele>
+    </trkpt>
+    <trkpt lat="42.51299" lon="-6.47188">
+        <ele>1029.0</ele>
+    </trkpt>
+    <trkpt lat="42.5165" lon="-6.47202">
+        <ele>985.7</ele>
+    </trkpt>
+    <trkpt lat="42.52523" lon="-6.48578">
+        <ele>890.3</ele>
+    </trkpt>
+    <trkpt lat="42.53121" lon="-6.51079">
+        <ele>743.1</ele>
+    </trkpt>
+    <trkpt lat="42.53517" lon="-6.5109">
+        <ele>673.0</ele>
+    </trkpt>
+    <trkpt lat="42.53744" lon="-6.52126">
+        <ele>603.8</ele>
+    </trkpt>
+    <trkpt lat="42.53624" lon="-6.515">
+        <ele>600.6</ele>
+    </trkpt>
+    <trkpt lat="42.54558" lon="-6.53583">
+        <ele>590.8</ele>
+    </trkpt>
+    <trkpt lat="42.54389" lon="-6.55588">
+        <ele>575.6</ele>
+    </trkpt>
+    <trkpt lat="42.53878" lon="-6.56243">
+        <ele>561.7</ele>
+    </trkpt>
+    <trkpt lat="42.53457" lon="-6.58357">
+        <ele>530.7</ele>
+    </trkpt>
+    <trkpt lat="42.54344" lon="-6.594">
+        <ele>548.3</ele>
+    </trkpt>
+    </trkseg>
+</trk>
+</gpx>
