@@ -28,6 +28,7 @@
 - [ ] Llave allen
 - [ ] Cámaras
 - [ ] Eslabón rápido bici Iñigo
+- [ ] Candado x2
 
 ## Alimentación
 - [ ] Recuperador
