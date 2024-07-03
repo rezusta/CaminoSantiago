@@ -49,6 +49,7 @@
 - [ ] Móvil
 - [ ] Garmin (reloj)
 - [ ] Garmin (gps)
+- [ ] Soporte pecho grabación
   
 # Higiene
 
